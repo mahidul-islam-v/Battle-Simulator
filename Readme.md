@@ -1,6 +1,6 @@
 # Battle Simulator ⚔️
 
-A turn-based battle system featuring anime characters with unique abilities. Watch Rimuru and Veldora fight it out with special ultimate moves!
+A turn-based battle system featuring anime characters Rimuru and Veldora, each with unique abilities. Watch Rimuru and Veldora fight it out with special ultimate moves!
 
 ## Features
 
